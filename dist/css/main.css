@@ -19,13 +19,10 @@
 }
 
 .home__name {
-  font-size: 5rem;
+  font-size: 3rem;
   padding-bottom: 1rem;
   margin-bottom: 1rem;
   border-bottom: 2px solid #fff;
-}
-
-.home__name--last {
   color: #ff652f;
   font-weight: 700;
 }
