@@ -13,8 +13,8 @@
       -ms-flex-align: center;
           align-items: center;
   text-align: center;
-  background: -webkit-gradient(linear, left top, right top, from(rgba(39, 39, 39, 0.9)), to(rgba(39, 39, 39, 0.3))), url("https://www.google.com/url?sa=i&url=https%3A%2F%2Fia.wikipedia.org%2Fwiki%2FGarrick_Ollivander&psig=AOvVaw1idhQad8r4bazpW_42kJf3&ust=1628631690520000&source=images&cd=vfe&ved=0CAsQjRxqFwoTCLiNvv_zpPICFQAAAAAdAAAAABAD") center top;
-  background: linear-gradient(to right, rgba(39, 39, 39, 0.9), rgba(39, 39, 39, 0.3)), url("https://www.google.com/url?sa=i&url=https%3A%2F%2Fia.wikipedia.org%2Fwiki%2FGarrick_Ollivander&psig=AOvVaw1idhQad8r4bazpW_42kJf3&ust=1628631690520000&source=images&cd=vfe&ved=0CAsQjRxqFwoTCLiNvv_zpPICFQAAAAAdAAAAABAD") center top;
+  background: -webkit-gradient(linear, left top, right top, from(rgba(39, 39, 39, 0.9)), to(rgba(39, 39, 39, 0.3))), url("https://upload.wikimedia.org/wikipedia/commons/0/08/Ollivanders_Wand_Shop%2C_Diagon_Alley_%287119189039%29.jpg") center top;
+  background: linear-gradient(to right, rgba(39, 39, 39, 0.9), rgba(39, 39, 39, 0.3)), url("https://upload.wikimedia.org/wikipedia/commons/0/08/Ollivanders_Wand_Shop%2C_Diagon_Alley_%287119189039%29.jpg") center top;
   background-size: cover;
 }
 
